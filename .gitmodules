@@ -1,3 +1,6 @@
 [submodule "data/airline-route-data"]
 	path = data/airline-route-data
 	url = https://github.com/Jonty/airline-route-data.git
+[submodule "data/Airports"]
+	path = data/Airports
+	url = https://github.com/mwgg/Airports.git
