@@ -4,3 +4,6 @@
 [submodule "data/Airports"]
 	path = data/Airports
 	url = https://github.com/mwgg/Airports.git
+[submodule "data/Airlines"]
+	path = data/Airlines
+	url = https://github.com/BesrourMS/Airlines.git
